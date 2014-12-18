@@ -7,7 +7,7 @@ var assert = require('assert')
  * Expose `serverUrl`.
  */
 module.exports = serverUrl
-console.log()
+
 /**
  * Get the server url.
  *
